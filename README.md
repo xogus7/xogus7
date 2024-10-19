@@ -1,16 +1,17 @@
-## Hi there 👋
+### Languages and Tools:
 
-<!--
-**xogus7/xogus7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![My Skills](https://skillicons.dev/icons?i=java,c,py,js,react)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+##
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xogus7&show_icons=true&locale=en&layout=compact" alt="xogus7" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/xogus7"
+    width="600"
+    height="300"
+  />
+</a>
