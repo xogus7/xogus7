@@ -1,12 +1,7 @@
 ### Languages and Tools:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,py,js,react" />
-  </a>
-</p>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=raspberrypi,arduino,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=java,c,py,html,css,js,react" />
   </a>
 </p>
 ##
