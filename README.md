@@ -1,7 +1,7 @@
 ### Languages and Tools:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,py,html,css,js,react" />
+    <img src="https://skillicons.dev/icons?i=java,c,py,js,ts,react" />
   </a>
 </p>
 
