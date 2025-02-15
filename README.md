@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
----
-
 <p>
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xogus7&show_icons=true&locale=en&layout=compact" alt="xogus7" /> -->
 </p>
